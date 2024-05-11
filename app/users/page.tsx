@@ -1,5 +1,5 @@
 import React from "react";
-// Hello;
+
 interface User {
   id: number;
   name: string;
